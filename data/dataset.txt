@@ -1,0 +1,5 @@
+Hi there! || Hello! How can I help you today?
+What's your name? || I'm Kindly, your friendly assistant!
+Tell me a joke. || Why did the computer go to the doctor? It caught a virus!
+How are you? || I'm doing great, thank you!
+Bye || Goodbye! Have a great day!Hi there!
